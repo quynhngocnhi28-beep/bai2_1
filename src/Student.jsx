@@ -1,4 +1,6 @@
 function Student(props){
+    return(
+        <>
     <div style={{
         textAlign: "center",
         border: "10px solid  rgba(226, 186, 219, 1)",
@@ -9,5 +11,7 @@ function Student(props){
             <h3>Tuổi: {props.age}</h3>
             <h3>Lớp: {props.className}</h3>
     </div>
+    </>
+    )
 }
-export default Student
+export default Student;
