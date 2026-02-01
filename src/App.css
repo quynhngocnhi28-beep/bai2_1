@@ -44,5 +44,5 @@
 .card-title{
   background-color: rgb(250, 240, 226);
   font-size: 60px;
-  border-radius: 10px;
+  border-radius: 20px solid rgb(255, 237, 212);
 }
