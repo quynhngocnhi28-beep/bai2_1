@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.card-title{
+  background-color: rgb(253, 233, 208);
+  border-radius: 10px;
+  font-size: 60px;
+}
