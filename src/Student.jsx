@@ -1,9 +1,9 @@
 function Student(props){
     return(
-        <>
+     <>
     <div style={{
         textAlign: "center",
-        border: "10px solid  rgba(226, 186, 219, 1)",
+        border: "5px solid  rgb(226, 186, 219, 1)",
         padding: "10px",
         marginBottom: "5px",
         borderRadius: "20px"}}>
